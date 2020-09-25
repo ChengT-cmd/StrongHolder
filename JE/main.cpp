@@ -11,6 +11,8 @@
 #endif
 #define MAXN 101
 
+#pragma GCC optimize(3)
+
 using namespace std;
 
 struct coordinate
