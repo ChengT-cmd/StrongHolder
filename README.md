@@ -2,6 +2,7 @@
 # Strongholder  
 只用≤两个末影之眼找到我的世界要塞！不是作弊、命令！  
 Find minecraft Stronghold  with only(or over) two ender-eye!NOT CHEATE!  
+## 最小覆盖圆 × 两点定一线 × C++快速代码   
   
   ~~qwq Markdown有bug请忽略 懒得改了~~  
 ** 1.坐标 **
