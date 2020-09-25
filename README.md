@@ -4,7 +4,8 @@
 Find minecraft Stronghold  with only(or over) two ender-eye!NOT CHEATE!  
 ## 最小覆盖圆 × 两点定一线 × C++快速代码   
   
-  ~~qwq Markdown有bug请忽略 懒得改了~~  
+~~qwq Markdown有bug请忽略 懒得改了~~  
+解释部分转自MCBBS贴吧  
 ** 1.坐标 **
 
 在数字上反映了玩家在主世界中的位置。坐标基于一个由三条交于一点（即原点）的坐标轴而形成的网格。玩家会出生在距离原点数百方块的位置上。x轴反映了玩家距离原点在东（+）西（-）方向上的距离；z轴反映了玩家距离原点在南（+）北（-）方向上的距离。（粘贴自wiki）。
